@@ -1,3 +1,4 @@
 gsettings set org.gnome.desktop.interface enable-animations false
 
 npm install -g tldr
+sudo apt install jq
